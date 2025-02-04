@@ -29,12 +29,12 @@ Welcome to the **Movie Recommendation App**—your go-to iOS app for discovering
 
 1. Clone this repo:
     ```bash
-    git clone https://github.com/Anurag12kaari/movie-recommendation-app.git
+    git clone https://github.com/Anurag12kaari/iOSFlix.git
     ```
 
 2. Open the project in Xcode:
     ```bash
-    open movie-recommendation-app.xcodeproj
+    open iOSFlix.xcodeproj
     ```
 
 3. Install the dependencies (if using CocoaPods, run):
